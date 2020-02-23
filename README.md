@@ -1,7 +1,7 @@
 # fb_data
 
 ## Feb 22nd:
-* Sort data
+* Load data
 * Sentence embeddings using (Sentence Transformers)[https://github.com/UKPLab/sentence-transformers]
 * Low dimensional visualization
 * 
