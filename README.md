@@ -2,7 +2,7 @@
 
 ## Feb 22nd:
 * Load data
-* Sentence embeddings using (Sentence Transformers)[https://github.com/UKPLab/sentence-transformers]
+* Sentence embeddings using [Sentence Transformers](https://github.com/UKPLab/sentence-transformers)
 * Low dimensional visualization
 * 
 
