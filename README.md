@@ -10,3 +10,7 @@
 * Maybe clean data before feeding
 * One point per csv thing
 * Does group with higher score also have more typos?
+
+## Feb 24th:
+* Timestamp data (maybe messages for Friday and Saturday night)
+* Embeddings PCA analysis (PC1 could be used as a feature of embeddings)
