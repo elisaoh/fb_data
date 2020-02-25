@@ -1,7 +1,7 @@
 .DS_Store
 
 held_in_csv/
-
+embeddings/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
